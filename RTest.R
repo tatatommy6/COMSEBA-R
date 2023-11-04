@@ -11,6 +11,7 @@
 # # sum(list,na.rm=TRUE)
 # # sum(d1[60<d1<73],na.rm=TRUE)
 # # sum(d1[d1>60],na.rm=TRUE)
-# v1<-51:90
-# v1[(v1%%2==0)]
-# sum(list,na.rm=TRUE)
+
+v1<-51:90
+list=v1[(v1%%2==0)]
+sum(list,na.rm=TRUE)
