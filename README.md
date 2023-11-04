@@ -1,2 +1,2 @@
-# CONSEBA-R
+# COMSEBA-R
 R project
